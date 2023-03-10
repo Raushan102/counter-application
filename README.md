@@ -1,3 +1,6 @@
 # counter-application
 sample video
-[screen-capture.webm](https://user-images.githubusercontent.com/124686068/224367726-f4bbac89-2f4b-4273-9a86-181efcb6f433.webm)
+
+
+https://user-images.githubusercontent.com/124686068/224368629-edc92843-50b4-4f27-b931-c53b323182da.mp4
+
