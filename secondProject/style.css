@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.allButttoncontener {
+  display: flex;
+  flex-direction: column;
+
+  align-content: center;
+  justify-content: space-around;
+  border: 5px ridge rgb(0, 0, 0);
+  border-radius: 10px;
+  padding: 40px;
+  padding-top: 20px;
+  box-shadow: 1px 4px 4px 0.5px;
+  border: none;
+  background-color: #eae9e9;
+  gap: 5px;
+}
+button {
+  padding: 20px;
+  border-radius: 15px;
+  border: 1px ridge rgb(171, 171, 171);
+  font-family: "Poppins", sans-serif;
+}
+h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: xx-large;
+}
+
